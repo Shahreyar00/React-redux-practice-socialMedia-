@@ -1,3 +1,8 @@
+#
+This repository contains code for react-redux (reducers, custom-reducers and createAsyncThunk).
+This also contains a pseudo api which mimics a normal response from a server (delay of 2sec).
+#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
